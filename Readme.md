@@ -89,7 +89,7 @@ Obsidian Template
 └── Plugins //插件
 │   └── Excalidraw 
 │        └── Fonts //字体
-││    └── DongJingJieJiaoDeXiaoLangMan-2 //中文Excalidraw风格字体
+│             └── DongJingJieJiaoDeXiaoLangMan-2 //中文Excalidraw风格字体
 │        └── Library //绘图素材
 │        └── Scripts //脚本
 │             └── Downloaded //由第三方下载
