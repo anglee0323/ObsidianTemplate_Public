@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "0e9ba358cea6bcf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a59a9f782971cb74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfef3a2e3e4bc18c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54e99ba334adb4cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f581331ce44cd91a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e34587b1f895d1af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1457fbe477a5613d",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "4847b22a05ce3268",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4b67154f8af9877",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e77fa54c86e5340",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          },
+          {
+            "id": "02017a052b91f4c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b471f22091e6fca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "graph:查看关系图谱": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "copilot:Copilot Chat": false,
+      "surfing:surfing-bookmark-manager": false
+    }
+  },
+  "active": "dfef3a2e3e4bc18c",
+  "lastOpenFiles": [
+    "Readme.md",
+    "Attachment/Copilot/Chat-2023_10_06-17_54_13.md",
+    "Attachment/Copilot",
+    "Attachment/Excalidraw/2023-10-06.excalidraw.md",
+    "Plugins/Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Plugins/Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "().md",
+    "Attachment/Excalidraw/2023-09-28.excalidraw.md",
+    "Attachment/Excalidraw",
+    "Attachment/Excalidraw/2023-09-27.excalidraw.md",
+    "Plugins/Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Attachment/Copilot/Chat-2023_09_17-19_52_26.md",
+    "Copilot-conversations/Chat-2023_09_17-19_51_05.md",
+    "Copilot-conversations",
+    "未命名.md",
+    "github使用指南.md",
+    "Source",
+    "Attachment/Excalidraw/2023-09-17.excalidraw.md",
+    "Plugins/Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Plugins/Excalidraw/Scripts/Downloaded",
+    "Plugins/Excalidraw/Fonts/Muyao-Softbrush-2.ttf",
+    "Plugins/Excalidraw/Fonts",
+    "Plugins/Excalidraw/fonts",
+    "Plugins/Excalidraw/未命名文件夹",
+    "Plugins/Excalidraw/Library/architecture-diagram-components.excalidrawlib",
+    "A.md",
+    "是的风格.md",
+    "2.md",
+    "1.md",
+    "Readme.md.md"
+  ]
+}
