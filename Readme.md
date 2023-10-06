@@ -30,6 +30,7 @@
    ![CleanShot 2023-10-06 at 18.01.45.gif](https://raw.githubusercontent.com/anglee0323/Picbed/main/CleanShot%202023-10-06%20at%2018.01.45.gif)
 7. 调整了UI为`Github`风格
 8. 隐藏了菜单滚动
+9. 使用`Github`进行同步
 ## 二、使用方法
 
 1. 克隆仓库到本地
