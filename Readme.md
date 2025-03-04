@@ -9,25 +9,21 @@
 	2. 其他附件统一存放在`Attachment`文件中
 2. 使用`Excalidraw`实现本地绘图
 	1. 自定义中文字体
-		![CleanShot 2023-10-06 at 17.20.53@2x.png](https://raw.githubusercontent.com/anglee0323/Picbed/main/CleanShot%202023-10-06%20at%2017.20.53%402x.png)
-		
 	2. 自定义常用素材库
 	3. 使用`Slideshow`插件进行画布演示 
-		![CleanShot 2023-10-06 at 17.40.13.gif](https://raw.githubusercontent.com/anglee0323/Picbed/main/CleanShot%202023-10-06%20at%2017.40.13.gif)
-
 	4. 使用`Mindmap`插件快速绘制思维导图
-		![CleanShot 2023-10-06 at 17.48.54.gif](https://raw.githubusercontent.com/anglee2002/Picbed/main/CleanShot%202023-10-06%20at%2017.48.54.gif)
+		
 
 
 3. 实现Obsidian内置Copilot（需要OpenAI API）
- ![CleanShot 2023-10-06 at 17.53.44.gif](https://raw.githubusercontent.com/anglee0323/Picbed/main/CleanShot%202023-10-06%20at%2017.53.44.gif)
+ 
 
 4. 实现了Obsidian内置浏览器
-   ![CleanShot 2023-10-06 at 17.58.14.gif](https://raw.githubusercontent.com/anglee0323/Picbed/main/CleanShot%202023-10-06%20at%2017.58.14.gif)
+   
 
 5. 实现代码高亮
 6. 实现markdown代码片段直接运行
-   ![CleanShot 2023-10-06 at 18.01.45.gif](https://raw.githubusercontent.com/anglee0323/Picbed/main/CleanShot%202023-10-06%20at%2018.01.45.gif)
+  
 7. 调整了UI为`Github`风格
 8. 隐藏了菜单滚动
 9. 使用`Github`进行同步
@@ -107,7 +103,6 @@ Obsidian Template
 * 对于`Excalidraw`绘图，可以配合`Raycast插件`通过`icons8`网站获取矢量图片
 > 具体参考: https://www.raycast.com/yug2005/icons8
 
-![效果展示](https://raw.githubusercontent.com/anglee0323/Picbed/main/CleanShot%202023-10-06%20at%2017.03.49%402x.png)
 
 
 
